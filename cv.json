@@ -1,0 +1,47 @@
+{
+	"Nombre": "Samara Raquel Cortés Muñoz",
+	"Celular": "921 228 46 79",
+	"Correo":"2002018@utrivieramaya.edu.mx",
+	
+
+	"Educacion":[
+		{
+			"escuela": "Universidad Tecnologica de la Rivera Maya",
+			"area": "Área Desarrollo Software Multiplataforma",
+		    "Preparatoria":"Centro de estudios Tecnologicos Industriales y de servicio",
+			"especialidad": "Tecnico en Informatica"
+			
+		}
+		
+
+    ],
+
+	"Skills":[
+		
+			"HTML",
+			"CSS",
+			"Java"
+		
+	],
+	"Habilidades":[
+		
+		"Organizacion",
+        "Resolver problemas",
+        "Trabajo en equipo",
+        "Seguir instrucciones y ejecutarlas"
+	
+   ],
+    "Idioma":[
+		
+	"Ingles"
+	
+
+   ],
+"Conocimiento":[
+ "Microsoft Office",
+ "Base de Datos"
+
+]
+
+
+}
